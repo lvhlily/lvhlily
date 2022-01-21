@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lvhlily
 - 👀 I’m interested in traveling, coffee, and all things art
-- 🌱 I’m currently learning all things FE
+- 🌱 I’m currently learning FE
 - 📫 lily.henry@gmail.com
 
 <!---
